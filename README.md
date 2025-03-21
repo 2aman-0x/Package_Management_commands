@@ -33,7 +33,7 @@ __Examples:__
 ```upgrade```: will delete old packages
 ```update```: Keep the old packages, we can rollback
 
-- You can see all the options using
+- You can see all the options using  
 ```yum -option```  
 ```yum check-updates```
 
