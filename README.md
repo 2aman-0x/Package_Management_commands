@@ -26,7 +26,7 @@ __Examples:__
 ```yum remove nginx```
 
 - How to upgrade or update a package?  
-```yum upgrade package```
+```yum upgrade package```  
 ```yum update package```
 
 - What is the difference between ```update``` and ```upgrade```?
