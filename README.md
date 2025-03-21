@@ -48,7 +48,7 @@ __Examples:__
 
 - Using ```rpm```, you can install, uninstall and query individual software packages.
 - Issue: It cannot manage dependency resolution like ```yum```.
-- ```rpm``` maintains a database of installed packages, which enables powerful and fast queries.  
+- ```rpm``` maintains a database of installed packages, which enables powerful and fast queries.
 
 - To install, upgrade or delete an ```.rpm``` package using ```rpm```  
 
